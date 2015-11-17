@@ -1,0 +1,4 @@
+Forked from http://www.vim.org/scripts/script.php?script_id=3041
+
+"Improved" to support multi-byte characters. May not work with non-utf8 locales.
+
